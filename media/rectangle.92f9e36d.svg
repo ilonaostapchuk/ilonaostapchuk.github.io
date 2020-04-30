@@ -1,9 +1,0 @@
-<svg width="879" height="249" viewBox="0 0 879 249" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="879" height="249" fill="url(#contact_rectangle_linear)"/>
-<defs>
-<linearGradient id="contact_rectangle_linear" x1="528.228" y1="59.7092" x2="493.003" y2="343.795" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFF2F9"/>
-<stop offset="1" stop-color="#FFFBFD" stop-opacity="0"/>
-</linearGradient>
-</defs>
-</svg>

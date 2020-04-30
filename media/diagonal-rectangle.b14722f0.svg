@@ -1,9 +1,0 @@
-<svg width="499" height="322" viewBox="0 0 499 322" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect y="181.399" width="477.701" height="151" transform="rotate(-22.3172 0 181.399)" fill="url(#hero_diagonal_rectangle_linear)"/>
-<defs>
-<linearGradient id="hero_diagonal_rectangle_linear" x1="238.851" y1="181.399" x2="-16.0325" y2="479.85" gradientUnits="userSpaceOnUse">
-<stop stop-color="#23222E"/>
-<stop offset="1" stop-color="#472EDE" stop-opacity="0"/>
-</linearGradient>
-</defs>
-</svg>
