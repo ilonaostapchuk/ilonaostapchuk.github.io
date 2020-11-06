@@ -1,9 +1,0 @@
-<svg width="196" height="196" viewBox="0 0 196 196" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="97.6895" cy="97.69" r="88" transform="rotate(6.7178 97.6895 97.69)" fill="url(#hero_circle_linear)"/>
-<defs>
-<linearGradient id="hero_circle_linear" x1="207.19" y1="31.69" x2="85.6895" y2="45.19" gradientUnits="userSpaceOnUse">
-<stop stop-color="white"/>
-<stop offset="1" stop-color="#347ABA" stop-opacity="0"/>
-</linearGradient>
-</defs>
-</svg>
