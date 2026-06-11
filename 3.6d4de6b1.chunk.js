@@ -1,0 +1,2 @@
+(this["webpackJsonpportfolio-v2"]=this["webpackJsonpportfolio-v2"]||[]).push([[3],{157:function(o,i,p){o.exports=p.p+"static/media/braces-diary-onboarding-v2-presentation.8adb8e3e.svg"}}]);
+//# sourceMappingURL=3.6d4de6b1.chunk.js.map
